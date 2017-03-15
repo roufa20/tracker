@@ -1,0 +1,17 @@
+entete: id,from_id,from_name,created_time,message,language,type,likes_count,shares_count,comment_count
+fields: id,message,shares,type,created_time,updated_time,likes.limit(0).summary(true),comments.limit(0).summary(true),from
+project:
+- id: '1211157282237781'
+  language: EN
+  last_update_time: '2016-12-27 17:00:06'
+  limit_comments: 250
+  limit_likes: 250
+  limit_posts: 250
+  status: 1
+servers:
+- ServerOne: bigdata2.ip-188-165-248.eu
+  ServerThree: bigdata4.ip-188-165-248.eu
+  ServerTwo: bigdata3.ip-188-165-248.eu
+tokens:
+- access_token: 621397074555501|FZ-XzODiiq20Z8QHCgrb03VIU2w
+  lastUpdate: '2016-10-03 12:30:59'

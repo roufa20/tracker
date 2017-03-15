@@ -1,0 +1,24 @@
+entete: id,from_id,from_name,created_time,message,language,type,likes_count,shares_count,comment_count,source
+project:
+- keywords: Orange
+  language:
+  - EN
+  - FR
+  name: Orange
+  since_id_en: 811619691269656577
+  since_id_fr: 811619678896451585
+servers:
+- ServerOne: bigdata2.ip-188-165-248.eu
+  ServerThree: bigdata4.ip-188-165-248.eu
+  ServerTwo: bigdata3.ip-188-165-248.eu
+tokens:
+- access_token: 781118336440696836-3AHtDbbF9pHZrJFeTXjPN406F39GyAG
+  access_token_secret: oBhSxnqJm8UTCSj8JX7OuSqVxT1BiQcjigEwqAHt2YTqV
+  consumer_key: BtgLKiGW7rCEo7XatNS6qn2IG
+  consumer_secret: SBupuLx511Sa3hHhMumV6x1wy5XLffYdsDFtmp3M2JJlQrQ7nD
+  lastUpdate: '2016-12-21 17:00:06'
+- access_token: 551148263-DS8wLfPqQ2o4R5jfIDmTTzIsChMEDqIDiSYQy7WR
+  access_token_secret: TGTpCYiNKbJs7VRfl7pSrz5Q2LUcOY91XfoeuoK0xo1vR
+  consumer_key: lMgHWSMCunlyVgJ1m07qvxzkt
+  consumer_secret: Kk6abb2NnOprFCZXaH6jz2srSq5N0I8FtJjxEloKIPa6QvOjxI
+  lastUpdate: '2016-12-21 17:10:07'
